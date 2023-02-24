@@ -23,3 +23,6 @@ Make sure all files that you've changed and want to commit show up in the index/
 ## Push your changes to our remote repo's copy of your branch
 <code>git push origin lisas_first_branch</code>
 
+Many thanks to Roger Dudler for "git - the simple guide"
+
+<link>https://rogerdudler.github.io/git-guide/</link>
